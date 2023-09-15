@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    position: absolute;
+    min-width: 100%;
+}
+.background img {
+    width: 100%;
+}
+.relative {
+    position: relative;
+}
+
+.pokemon {
+    padding-left: 6%;
+    padding-top: 8%;
+    color: red;
+}
+
+.pokemonPicture {
+    width: 400px;
+    height: 400px;
+    padding-left: 6%;
+}
+
+.heightOfPokemon{
+   padding-left: 20%;
+   font-size: larger;
+}
+
+.pokemonName {
+    padding-left: 18%;
+    font-size: xx-large;
+}
+
+.attacks {
+    padding-left: 20%;
+    font-size: large;
+}
+
+.aNames {
+    padding-left: 20%;
+    list-style-type: none;
+}
